@@ -1,4 +1,5 @@
 import { isDateEqual } from "../date";
+import { isLengthEqual } from "../length";
 
 //////// UTILS
 const isValueEqual = (a, b) => a === b
