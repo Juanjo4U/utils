@@ -1,0 +1,25 @@
+{
+  "name": "@juanjo4u/utils",
+  "version": "1.0.0",
+  "description": "utilities that makes your code more readable",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juanjo4U/utils.git"
+  },
+  "keywords": [
+    "utilities",
+    "code",
+    "readable",
+    "clean_code"
+  ],
+  "author": "Juanjo4U",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juanjo4U/utils/issues"
+  },
+  "homepage": "https://github.com/Juanjo4U/utils#readme"
+}
