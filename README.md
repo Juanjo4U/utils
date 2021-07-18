@@ -36,10 +36,13 @@ const b = {
     test: [1]
 }
 
-//b.date.setDate(b.date.getDate() - 1)
+/*
+    isParams CAN RECEIVE MANY PARAMS
+    example: isParams(a,b,c,d,e).valuesEqualTo(z)
+*/
 
 console.clear()
-//console.log("IS A === B ?: ", is(a).valuesEqualTo(b))
+//console.log("IS A === B ?: ", isParams(a).valuesEqualTo(b))
 
 console.log("1", isParams(new Date()).instanceOf(Date)) // true
 console.log(isParams(new Date()).instanceOf(RegExp)) // false
